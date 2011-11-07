@@ -1,5 +1,8 @@
 /*
 
+author: Andrey Sergienko <andrey.sergienko@gmail.com>
+reference: www.erazer.org
+
 */
 
 <?php

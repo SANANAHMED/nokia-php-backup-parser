@@ -1,0 +1,8 @@
+
+Nokia PHP backup.arc unpacker and parser.
+
+Can unpack Backup.arc file from Nokia's smartphones
+
+How to use: just execute it with full path to Backup.arc file, it will unpack backup into the same directory.
+
+You can compile this PHP-code into windows executable with bamcompile.
